@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react'
-import { Movie } from '../../typings'
+import { Movie } from '../typings'
 import {FiChevronLeft, FiChevronRight} from 'react-icons/fi'
 import Thumbnail from './Thumbnail'
 
