@@ -1,14 +1,9 @@
 import Image from 'next/image'
 import React from 'react'
 import { Movie } from '../typings'
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 import {useRecoilState} from 'recoil'
 import {modalState, movieState} from '../atoms/modalAtom'
-=======
->>>>>>> 64f739a162005bd82d295332be1e17a4611edbc8
-=======
->>>>>>> 64f739a162005bd82d295332be1e17a4611edbc8
 
 interface Props {
     movie: Movie 
